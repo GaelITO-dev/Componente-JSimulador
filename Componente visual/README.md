@@ -8,7 +8,7 @@ Este proyecto contiene un componente visual llamado `JSimular`, diseñado para s
 ![Interfaz del componente JSimular](Capturas/interfazSimulador.png)
 
 ### Interfaz gráfica del componente en ejecución
-![Interfaz  JSimular en ejecucion](Capturas/ejecucionSimulador.png)
+<img width="622" height="565" alt="Image" src="https://github.com/user-attachments/assets/3bd3a4af-a31a-4ab3-9834-f2ec93e4b3ff" />
 
 
 
