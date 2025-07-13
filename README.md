@@ -95,6 +95,8 @@ https://gaelito-dev.github.io/Componente-JSimulador/
 
 ## Video de Youtube explicacion uso del componente
 
+https://youtu.be/2rYRFJuwPtQ?si=eX-7GD2oEPff6FmX
+
 
 
 
