@@ -89,5 +89,12 @@ Gael Martinez Cruz
 
 Jonathan Eleazar Diaz Reyes
 
+## Enlace del JavaDoc (GitHub Pages) 
+
+https://gaelito-dev.github.io/Componente-JSimulador/
+
+## Video de Youtube explicacion uso del componente
+
+
 
 
